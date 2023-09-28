@@ -2,7 +2,7 @@
     "name": "eriam/test-montant-frais",
     "description": "A sample package that tests for a valid number between 0,01 and 200.",
     "type": "library",
-    "license": "GPL",
+    "license": "0BSD",
     "autoload": {
         "psr-4": {
             "Eriam\\TestMontantFrais\\": "src/"
