@@ -1,0 +1,18 @@
+{
+    "name": "eriam/test-montant-frais",
+    "description": "A sample package that tests for a valid number between 0,01 and 200.",
+    "type": "library",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Eriam\\TestMontantFrais\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eriam Schaffter",
+            "email": "eriam@mediavirtuel.com"
+        }
+    ],
+    "require": {}
+}
