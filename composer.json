@@ -3,6 +3,7 @@
     "description": "A sample package that tests for a valid number between 0,01 and 200.",
     "type": "library",
     "license": "0BSD",
+    "version": 0.1,
     "autoload": {
         "psr-4": {
             "Eriam\\TestMontantFrais\\": "src/"
